@@ -564,4 +564,5 @@ print("Averaged Models MSE:" , mse)
 #   Ridge Regression MSE =  0.01330880188768746
 #   Lasso Regression MSE =  0.014073139893940408
 #   ElasticNet Reg. MSE  =  0.014112849571050995
+#   XGBRegressor MSE =      0.01544511963741259
 #   Averaged Models MSE =   0.012344561484256522
