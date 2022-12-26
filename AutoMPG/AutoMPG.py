@@ -16,6 +16,7 @@ from sklearn.base import BaseEstimator, TransformerMixin, RegressorMixin, clone
 
 # XGBoost
 import xgboost as xgb
+from xgboost import XGBRegressor
 
 #warning
 import warnings
