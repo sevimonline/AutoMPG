@@ -1,4 +1,5 @@
-![close-up-of-speedometer-and-gas-gauge-royalty-free-image-1585163706](https://user-images.githubusercontent.com/104313268/209484388-e9df2c09-df2e-4076-84bd-8d87d15546c1.jpg)
+
+![close-up-of-speedometer-and-gas-gauge-royalty-free-image-1585163706](https://user-images.githubusercontent.com/104313268/209488912-7b30672e-7709-4137-8df8-4bace00fc905.jpg)
 
 
 ## AutoMPG
