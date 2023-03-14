@@ -16,6 +16,7 @@ from sklearn.base import BaseEstimator, TransformerMixin, RegressorMixin, clone
 
 # XGBoost
 import xgboost as xgb
+from xgboost import XGBRegressor
 
 #warning
 import warnings
@@ -559,8 +560,10 @@ print("Averaged Models MSE:" , mse)
 
 
     # RobustScaler
-#   Linear Regression MSE = 0.013374975893501171
-#   Ridge Regression MSE =  0.01330880188768746
-#   Lasso Regression MSE =  0.014073139893940408
-#   ElasticNet Reg. MSE  =  0.014112849571050995
+#   Linear Regression MSE = 0.013374975893501177
+#   Ridge Regression MSE =  0.01334744005263467
+#   Lasso Regression MSE =  0.014558498674784313
+#   ElasticNet Reg. MSE  =  0.013702314093060457
+#   XGBRegressor MSE =      0.01544511963741259
+
 #   Averaged Models MSE =   0.012344561484256522
